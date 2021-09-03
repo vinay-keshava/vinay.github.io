@@ -1,0 +1,4 @@
+Sitemap: https://vinay-keshava.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: vinay-keshava.github.io
